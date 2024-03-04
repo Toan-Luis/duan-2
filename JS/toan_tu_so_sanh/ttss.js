@@ -20,3 +20,6 @@ console.log(c == a);
 
 // ===(so sánh cả kiểu dữ liệu và giá trị)_không tuân theo quy tắc ép kiểu ngầm định
 console.log(c === a);
+
+//!===(so sánh cả giá trị và kiểu giữ liệu)
+console.log(c !== a);
