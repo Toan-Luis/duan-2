@@ -1,5 +1,5 @@
 //Cú pháp:
-/* funcition Tên_hàm(tham_số) {
+/* function Tên_hàm(tham_số) {
     code
 }*/
 function showalert() {
